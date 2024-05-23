@@ -1,0 +1,2 @@
+# minimo
+demo for class
